@@ -6,7 +6,7 @@
 
 #include "tca9534/rp2040_tca9534.h"
 
-#define I2C_BAUD 50000
+#define I2C_BAUD 100000
 
 void main(void) {
 
